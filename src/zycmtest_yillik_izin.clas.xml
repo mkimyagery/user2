@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZYCMTEST_YILLIK_IZIN</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Yillik Izin</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>ID_KONTROL</CMPNAME>
+     <SCONAME>EV_CALISAN_MEVCUT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>ID_KONTROL</CMPNAME>
+     <SCONAME>IV_ID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Data Element for column ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_EKLE</CMPNAME>
+     <SCONAME>IV_ID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Data Element for column ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_EKLE</CMPNAME>
+     <SCONAME>IV_IZIN_BASLANGIC</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP system field: Current date of application server</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_EKLE</CMPNAME>
+     <SCONAME>IV_IZIN_BITIS</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP system field: Current date of application server</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_EKLE</CMPNAME>
+     <SCONAME>IV_KUL_IZIN</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>1 Byte Unsigned Integer</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_EKLE</CMPNAME>
+     <SCONAME>IV_YIL</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Undefined range (can be used for patch levels)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>EV_IZIN_ALABILIR_1</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>EV_IZIN_ALABILIR_2</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>EV_KULLANILAN_IZIN_1</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>1 Byte Unsigned Integer</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>EV_KULLANILAN_IZIN_2</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>1 Byte Unsigned Integer</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>EV_YIL_1</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Undefined range (can be used for patch levels)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>EV_YIL_2</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Undefined range (can be used for patch levels)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>IV_ID</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Data Element for column ID</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>IV_IZIN_BASLANGIC</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP system field: Current date of application server</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>IZIN_KONTROL</CMPNAME>
+     <SCONAME>IV_IZIN_BITIS</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP system field: Current date of application server</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

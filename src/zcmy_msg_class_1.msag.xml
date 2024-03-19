@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message Class 1</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Merhabalar. Bu bir test mesajidir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Islem basariyla gerceklestirildi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Islem basarisizlikla sonuclandi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Lütfen gecerli bir islem sembolü giriniz.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Sifira bölme islemi gerceklestirilemez.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Satir basariyla güncellendi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Güncelleme islemi basarisizlikla sonuclandi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Yeni kayit olusturuldu.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Yeni kayit olusturma islemi basarisizlikla sonuclandi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Database tablosunda kayit bulunmuyor.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Bugün günlerden pazartesi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>&amp;1 nolu radiobuton secildi. Mesaj tipi: &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>ZMK_GENELTEKR raporu &amp;1 tarihinde &amp;2 saatinde &amp;3 tarafindan calistirildi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Secim ekranindan Sirket No: &amp;1, Yeni Sirket Ismi: &amp;2 degerleri girildi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Secim ekranindan gelen &amp;1 firma numarasina sahip kayit bulunmamaktadir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Secim ekranindan gelen &amp;1 firma numarasina sahip kayit bulundu.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi bos olamaz.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi &amp;1 bos degildir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi &amp;1 25 karakterden büyük olamaz.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Secim ekranindan gelen yeni firma ismi &amp;1 25 karakterden büyük degildir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Güncelleme islemi basarisiz.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Güncelleme islemi basariyla gerceklestirildi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Satilmayan koltuk sayilari: Economy: &amp;1, Business: &amp;2, First Class: &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Sirket: &amp;1, Ucus no: &amp;2, Tarih: &amp;3, &amp;4.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Yapilan degisiklikler database tablosuna kaydedildi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>Yapilan degisiklikler database tablosuna kaydedilemedi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>Uculacak mesafe: &amp;1 km&apos;dir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>027</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>028</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>033</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>034</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>035</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>036</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_1</ARBGB>
+     <MSGNR>037</MSGNR>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

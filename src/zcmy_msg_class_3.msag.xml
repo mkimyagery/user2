@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Yeni MC</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Rapor &amp;1 tarihinde &amp;2 saatinde, &amp;3 tarafindan calistirildi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Baslangic tarihi: &amp;1, Bitis tarihi: &amp;2, Calisan ID: &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Izin baslangic tarihi izin bitis tarihinden büyük olamaz.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Izin baslangic tarihi bugünün tarihinden kücük olamaz.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Girilen Id ile ilgili calisan bulunamadi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Girilen Id ile ilgili calisan bulundu.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Girilen tarih araliginda is günü bulunmamaktadir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Yeterli izin hakki bulunmamaktadir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Mevcut kayit ile ortak gün problemi bulunmaktadir.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Kayit basariyla eklendi.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCMY_MSG_CLASS_3</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Kayit ekleme islemi basarisiz.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZYSTRAVELAG_NEW_ENTRY_ALV_2</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>STRAVELAG new entry and ALV</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>003</KEY>
+     <ENTRY>ALV olustururken bir hata ortaya cikti.</ENTRY>
+     <LENGTH>78</LENGTH>
+    </item>
+   </TPOOL>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>GS_ZCM_STRAVELAG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Travel agency</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GT_ZCM_STRAVELAG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>TT for the table ZCM_STRAVELAG</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>MAKE_URL</CMPNAME>
+     <SCONAME>IV_NAME</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Travel agency name</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>MAKE_URL</CMPNAME>
+     <SCONAME>RV_URL</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Travel agency homepage URL</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>PREP_FCAT</CMPNAME>
+     <SCONAME>NO_FCAT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>No field catalog.</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>PREP_LAYOUT</CMPNAME>
+     <SCONAME>IV_COLWIDTH_OPTIMIZE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>PREP_LAYOUT</CMPNAME>
+     <SCONAME>IV_ZEBRA</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

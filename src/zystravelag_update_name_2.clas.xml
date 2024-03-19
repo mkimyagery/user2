@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZYSTRAVELAG_UPDATE_NAME_2</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Update Name</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Girilen numara ile seyahat acentesi bulunamadi.</ENTRY>
+     <LENGTH>94</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>Yeni isim bos olamaz.</ENTRY>
+     <LENGTH>42</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>003</KEY>
+     <ENTRY>Yeni isim 25 karakterden uzun olamaz.</ENTRY>
+     <LENGTH>74</LENGTH>
+    </item>
+   </TPOOL>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_ID</CMPNAME>
+     <SCONAME>IV_AGENCYNUM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Travel Agency Number</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_ID</CMPNAME>
+     <SCONAME>NO_DATA</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Girilen Agency Number ile ilgili kayit bulunmuyor.</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_NAME</CMPNAME>
+     <SCONAME>NEW_NAME_EMPTY</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Yeni girilen isim bos olamaz.</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_NAME</CMPNAME>
+     <SCONAME>RV_OK</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CHECK_NAME</CMPNAME>
+     <SCONAME>TOO_LONG_NAME</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Cok uzun isim.</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>UPDATE_NAME</CMPNAME>
+     <SCONAME>IV_AGENCYNUM</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Travel Agency Number</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>UPDATE_NAME</CMPNAME>
+     <SCONAME>RV_UPD_OK</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Single-Character Flag</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
